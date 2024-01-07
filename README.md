@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Dubeyshruti/Dubeyshruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Science & ML projects and interested in contributing to open source projects 
-- 🌱 I’m currently learning BTech Honors 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
+- 🔭 I’m currently working on Data Science & ML projects and interested in contributing to open source projects
+- 🌱 I’m currently learning Data Structure and Algorithms with data science.
+- 👯 I’m looking to collaborate on Data Science and Aritificial Intelligence projects 
+- 🤔 I’m looking for help with projects of Artificial intelligence 
+- 💬 Ask me about python , DBMS-SQL , frontend
+- 📫 How to reach me: shrutidubey04669@gmail.com
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I think I love eating!
+

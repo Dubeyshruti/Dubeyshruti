@@ -9,5 +9,5 @@
 - 💬 Ask me about python , DBMS-SQL , frontend
 - 📫 How to reach me: shrutidubey04669@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I think I love eating!
+- ⚡ Fun fact: I love eating!
 

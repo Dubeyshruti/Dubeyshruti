@@ -1,6 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)
 <h1 align="center">Hi 👋, I'm Shruti Dubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyshruti&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyshruti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dubeyshruti" alt="dubeyshruti" /></a> </p>
@@ -43,4 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dubeyshruti&show_icons=true&locale=en" alt="dubeyshruti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyshruti&" alt="dubeyshruti" /></p>
+
 

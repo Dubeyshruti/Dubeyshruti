@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Data science projects**
+- 🤝I’m looking to collaborate on **Data science projects**
 
 - 💬 Ask me about **python , R**
 
 - 📫 How to reach me **shrutidubey04669@gmail.com**
 
-- ⚡ Fun fact **I love eating!**
+<!---Fun fact **I wonder how butterflies🦋 are so beautiful**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

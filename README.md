@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)
-<h1 align="center">Hi 👋, I'm Shruti Dubey</h1>
+<h1 align="center">Hi 👋, I'm Shruti </h1>
 <h3 align="center">An enthusiast of Data Science from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyshruti&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyshruti" /> </p>
 

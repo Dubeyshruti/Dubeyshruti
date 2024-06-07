@@ -1,7 +1,9 @@
+![MasterHead](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png).
+
 <h1 align="center">Hi 👋, I'm Shruti </h1>
 <h3 align="center">An enthusiast of Data Science from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyshruti&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyshruti" /> </p>
-![MasterHead](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png).
+
 
 <p align="left"> <a href="https://twitter.com/shruti82722839" target="blank"><img src="https://img.shields.io/twitter/follow/shruti82722839?logo=twitter&style=for-the-badge" alt="shruti82722839" /></a> </p>
 

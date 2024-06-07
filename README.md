@@ -40,7 +40,6 @@
 
 <p><a href="https://www.buymeacoffee.com/shrutidubeyey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/shrutidubeyey" /></a></p><br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dubeyshruti" alt="dubeyshruti" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dubeyshruti&show_icons=true&locale=en&layout=compact" alt="dubeyshruti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dubeyshruti&show_icons=true&locale=en" alt="dubeyshruti" /></p>

@@ -38,9 +38,3 @@
 <p><a href="https://www.buymeacoffee.com/shrutidubeyey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/shrutidubeyey" /></a></p><br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyshruti&" alt="dubeyshruti" /></p>
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Dubeyshruti/Dubeyshruti/output/snake.svg" alt="Snake animation" />
-
-

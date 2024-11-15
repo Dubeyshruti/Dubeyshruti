@@ -34,7 +34,7 @@
 
 
 <h3 align="left">Support:</h3>
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a186c70236b94c1a9513166ca778b240)](https://app.codacy.com/gh/Dubeyshruti/AI-legal-consultation-services/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 <p><a href="https://www.buymeacoffee.com/shrutidubeyey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/shrutidubeyey" /></a></p><br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyshruti&" alt="dubeyshruti" /></p>
 
